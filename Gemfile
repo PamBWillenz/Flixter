@@ -32,6 +32,7 @@ gem 'sass-rails'
 gem 'simple_form'
 
 gem 'carrierwave'
+gem 'mini_magick', '~> 4.3.1'
 
 gem "figaro"
 
