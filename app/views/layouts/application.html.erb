@@ -89,11 +89,15 @@
       <b>Social</b>
       <br />
       <br />
-      <%= link_to 'https://github.com/PamBWillenz' do %>
+      <%= link_to 'https://github.com/PamBWillenz', :target => "_blank" do %>
         <%= image_tag 'github.png', class: 'social-button' %>
       <% end %>  
-      <%= image_tag 'facebook.png', class: 'social-button' %>
-      <%= image_tag 'twitter.png', class: 'social-button' %>
+      <%= link_to 'https://www.facebook.com/pam.willenz', :target => "_blank" do %>
+        <%= image_tag 'facebook.png', class: 'social-button' %>
+      <% end %>  
+      <%= link_to 'https://twitter.com/PamelaBWillenz', :target => "_blank" do %>
+        <%= image_tag 'twitter.png', class: 'social-button' %>
+      <% end %>  
     </div>
   </div>
 </div>
