@@ -23,5 +23,5 @@ You can checkout Flixter [here] (https://flixter-pam-willenz.herokuapp.com/). Si
 ###### Check out the landing page and one of the teacher pages on mobile
 ![alt tag](https://github.com/PamBWillenz/Flixter/blob/master/app/assets/images/flixter_screenshot.png)
 
-![alt tag](https://github.com/PamBWillenz/Flixter/blob/master/app/assets/images/flixter_screenshot.png)
+![alt tag](https://github.com/PamBWillenz/Flixter/blob/master/app/assets/images/flixter_screenshot02.png)
 
